@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![ASCII Art](mylogo.svg)
+
 <!--
 **navanish07/navanish07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
